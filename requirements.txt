@@ -1,0 +1,8 @@
+opencv-python
+numpy
+ultralytics
+cvzone
+mediapipe
+transformers
+av
+ultralytics
